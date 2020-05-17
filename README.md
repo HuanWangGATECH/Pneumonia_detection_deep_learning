@@ -37,6 +37,7 @@ params.txt--------------------------------parameters used in training best model
 val0.057482_train0.044659_epoch15---------saved best model  
 
 =========================how to run=====================================
+
 1.run prepare_data.py to get train.csv test.csv valid.csv data 
 
 command: python prepare_data.py
